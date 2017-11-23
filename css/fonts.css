@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'BPG_Arial_2010';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/BPG_Arial_2010.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BPG_Arial_Caps_2010';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/BPG_Arial_Caps_2010.ttf') format('truetype');
+}

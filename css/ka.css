@@ -1,0 +1,11 @@
+header, footer, main div.bredcrump div.wrapper h2.title, main div.wrapper span.date, main div.wrapper section.archive article div.cont a h3, main section.galleryinner div.wrapper h4.title, main div.bredcrump div.wrapper a.back, main div.wrapper section.links article a, main div.wrapper section.slider div.item div.desc h2, main div.wrapper section.news div.h h2.title, main div.wrapper a.all, main div.wrapper section.news article div.n h3, main div.wrapper aside.statements section.statements article a, main div.wrapper aside.statements section.selfgov h2.title, main div.wrapper aside.statements section.selfgov article a, main section.pdf3 div.wrapper article, main section.pdf2 div.wrapper article, main section.pdf1 div.wrapper article, main div.contact div.wrapper form label, main div.contact div.wrapper form div.send input[type='submit'], main div.contact div.wrapper div.info, main div.sitemap, main section.profile div.wrapper aside ul li, main section.profile div.wrapper section table, main section.profile div.wrapper section input#edit, main section.profile div.wrapper section input#save, main div.wrapper section.text h3.title, main div.wrapper aside.attach div.share a, main div.wrapper aside.attach section.attachments article span.name, main div.wrapper aside.attach section.attachments article a.download, main section.photogallery div.wrapper article a.title, main section.videogallery div.wrapper article a.albumtitle, main section.profile div.wrapper section h3.tabletitle{
+	font-family: "BPG_Arial_Caps_2010";
+}
+
+main div.wrapper section.archive article div.cont p, main div.wrapper section.slider div.item div.desc p, main div.wrapper section.news article div.n p, main div.wrapper section.text p{
+	font-family: "BPG_Arial_2010";
+}
+
+main div.wrapper section.pagination a{
+	font-family: "Open Sans";
+}
